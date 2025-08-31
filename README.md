@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Framework-FastAPI-purple?style=for-the-badge&logo=fastapi" alt="Framework Badge">
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Language Badge">
   <img src="https://img.shields.io/badge/Paradigm-API%20Proxy-orange?style=for-the-badge&logo=openai" alt="Paradigm Badge">
-  <img src="https://img.shields.io/github/stars/your-github/brocade?style=for-the-badge&color=gold" alt="Stars Badge">
+  <img src="https://img.shields.io/github/stars/cotix-ai/brocade?style=for-the-badge&color=gold" alt="Stars Badge">
 </div>
 
 <br>
